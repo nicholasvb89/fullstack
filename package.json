@@ -13,7 +13,11 @@
   "devDependencies": {
     "lite-server": "^2.4.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nicholasvb89/fullstack.git"
