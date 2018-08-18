@@ -2,15 +2,24 @@
   "name": "fullstack",
   "version": "1.0.0",
   "description": "this is a test directory to learn Git and Node",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "start":"npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "author": "Nicholas Van Buskirk",
   "license": "ISC",
   "devDependencies": {
-    "light-server": "^2.5.1"
-  }
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasvb89/fullstack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nicholasvb89/fullstack/issues"
+  },
+  "homepage": "https://github.com/nicholasvb89/fullstack#readme"
 }
