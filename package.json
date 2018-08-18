@@ -1,0 +1,16 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn Git and Node",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "Nicholas Van Buskirk",
+  "license": "ISC",
+  "devDependencies": {
+    "light-server": "^2.5.1"
+  }
+}
